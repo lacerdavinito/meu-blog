@@ -1,0 +1,7 @@
+title: Meu Blog
+description: Notas sobre meus pensamentos.
+theme: minima
+
+# Configuracoes de publicacao do Jekyll
+plugins:
+  - jekyll-feed
