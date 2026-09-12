@@ -188,6 +188,8 @@
   },
   "active": "c34f60096e192492",
   "lastOpenFiles": [
+    "asssets/css/style.scss",
+    "_config.yml",
     "asssets/css/style.scss.txt",
     "asssets/css/New Text Document.txt",
     "asssets/css/new.txt",
@@ -199,7 +201,6 @@
     "index.md",
     "_posts",
     "_config.yml.txt",
-    "New Text Document.txt",
     "Welcome.md"
   ]
 }
