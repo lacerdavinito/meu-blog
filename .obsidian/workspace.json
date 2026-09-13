@@ -188,6 +188,9 @@
   },
   "active": "c34f60096e192492",
   "lastOpenFiles": [
+    "_layouts/default.html",
+    "default.html",
+    "_layouts",
     "asssets/css/style.scss",
     "_config.yml",
     "asssets/css/style.scss.txt",
@@ -196,11 +199,8 @@
     "asssets/css",
     "asssets/New folder",
     "asssets",
-    "New folder",
     "_posts/2026-09-12-primeiro-post.md",
     "index.md",
-    "_posts",
-    "_config.yml.txt",
     "Welcome.md"
   ]
 }

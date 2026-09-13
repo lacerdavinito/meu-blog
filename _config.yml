@@ -1,3 +1,5 @@
 title: Meu Blog
 description: Notas sobre meus pensamentos.
-theme: minima
+exclude:
+  - _layouts
+  - assets

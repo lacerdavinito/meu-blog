@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <main>
+    {% if page.url != '/' %}
+      <a href="{{ '/' | relative_url }}" class="back-link">← Voltar</a>
+    {% endif %}
+    {{ content }}
+  </main>
+</body>
+</html>
